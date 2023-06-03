@@ -7,7 +7,6 @@ from sklearn import svm
 import itertools
 
 import matplotlib.pyplot as plt
-import matplotlib.mlab as mlab
 
 import seaborn
 
